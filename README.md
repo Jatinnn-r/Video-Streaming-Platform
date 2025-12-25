@@ -1,4 +1,6 @@
 # StreamSafe - Intelligent Video Streaming Platform 🎥
+## 📺 Project Demo
+**[▶️ Click Here to Watch the Demo Video](https://drive.google.com/file/d/1No8o_4b_I-rtUBgpDz_mbHZW5-E62mX9/view)**
 
 **StreamSafe** is a scalable video streaming application featuring real-time content sensitivity analysis, role-based access control (RBAC), and adaptive HTTP streaming.
 
@@ -24,5 +26,5 @@ Built to demonstrate **Event-Driven Architecture** using Socket.io and Node.js s
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/video-streaming-app.git](https://github.com/YOUR_USERNAME/video-streaming-app.git)
+git clone [https://https://github.com/Jatinnn-r/Video-Streaming-Platform.git](https://https://github.com/Jatinnn-r/Video-Streaming-Platform.git)
 cd video-streaming-app
